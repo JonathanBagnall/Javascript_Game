@@ -5,8 +5,8 @@
  
 
 <h2>Description</h2>
-Project is a top down javascript game made as a college project. I made this in the style of the old legen of zelda games.<br />
-I used online sprite assets then drew the maps myself and used javascript to make everything work, the game runs in the browser with keyboard to play.
+Project is a top down javascript game made as a college project. I made this in the style of the old Legend of zelda games.<br />
+I used online sprite assets, then drew the maps myself. The game runs in the browser with keyboard to play.
 <br />
 
 
