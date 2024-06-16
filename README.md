@@ -70,6 +70,12 @@ sample of code used to animate player sprite:  <br/>
 <br />
 Sample of code used to check player damage:  <br/>
 <img src="https://imgur.com/qve33AM.png" height="80%" width="80%" alt="Add products form"/>
+ <br />
+Function for checking collisions:  <br/>
+<img src="https://imgur.com/WWIy1Ot.png" height="80%" width="80%" alt="Add products form"/>
+ <br />
+Sample of arrays used for collision detection:  <br/>
+<img src="https://imgur.com/4dd0VRu.png" height="80%" width="80%" alt="Add products form"/>
 </p>
 
 <!--
